@@ -1,0 +1,27 @@
+body{
+    background-color:gold;
+    text-align: center;
+}
+header{
+    padding: 0px;
+    margin: 0px;
+    background-color: darkorange;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    font-size: 50px;
+}
+section{
+    height:1200px;
+}
+#btnRepos{
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border-color: black;
+    background-color: white;
+    color: navy;
+}
