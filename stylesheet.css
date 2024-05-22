@@ -1,5 +1,5 @@
 body{
-    background-color:gold;
+    background-color: white;
     text-align: center;
 }
 header{
@@ -22,7 +22,7 @@ section{
     padding-bottom: 10px;
     border-radius: 10px;
     border-color: black;
-    background-color: white;
+    background-color: yellow;
     color: navy;
     
 }
